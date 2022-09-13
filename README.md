@@ -1,6 +1,6 @@
 # Hello
 ---------------
-- 🔨 I’m currently working on ChonkyStation and Chonky64
+- 🔨 I’m currently working on ChonkyStation
 - 💬 You can talk to me on Discord: liuk707#0707
 ---------------
 ### What do you do?
